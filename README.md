@@ -37,14 +37,14 @@ This is a **React-based User Management Application** that integrates with the *
 - **React Router** for seamless navigation.
 - **Toast notifications** for success/error messages.
 - **Mobile-friendly UI with Tailwind CSS**.
-- **Deployed on [Live Demo](#)** (Add link when deployed).
+- **Deployed on [Live Demo](https://employ-wise-user-management-app-s8g8.vercel.app/)** 
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Redux, React Router, Axios, Tailwind CSS
-- **State Management:** Redux (optional, can use Context API)
+- **State Management:** Redux 
 - **API Requests:** Axios
 - **UI Framework:** Tailwind CSS
 - **Hosting:** Netlify / Vercel / GitHub Pages
@@ -54,7 +54,7 @@ This is a **React-based User Management Application** that integrates with the *
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/employwise-user-management.git
+git clone https://github.com/aastha2112/EmployWise_user_management_app.git
 cd EmployWise_user_management_app
 ```
 
