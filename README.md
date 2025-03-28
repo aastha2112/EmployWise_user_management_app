@@ -55,7 +55,7 @@ This is a **React-based User Management Application** that integrates with the *
 
 ```sh
 git clone https://github.com/your-username/employwise-user-management.git
-cd employwise-user-management
+cd EmployWise_user_management_app
 ```
 
 ### 2️⃣ Install Dependencies
@@ -112,7 +112,7 @@ Password: cityslicka
 
 ## 🚀 Deployment (If Hosted)
 
-The project is deployed at: **[Live Demo](#)** (Replace with actual link)
+The project is deployed at: **[Live Demo](https://employ-wise-user-management-app-s8g8.vercel.app/)** 
 
 ---
 
