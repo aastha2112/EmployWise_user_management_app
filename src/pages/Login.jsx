@@ -31,7 +31,7 @@ const Login = () => {
         className="bg-gray-800 p-8 rounded-xl shadow-lg w-full max-w-md border border-gray-700"
       >
         <h2 className="text-3xl font-bold text-center mb-6 text-white">
-          Welcome Back
+          Welcome
         </h2>
 
         <div className="mb-4">

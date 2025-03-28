@@ -24,9 +24,9 @@ const App = () => {
         <Routes>
           <Route
             path="/users"
-            element={token ? <UserList /> : <Navigate to="/login" />}
+            element={token ? <UserList /> : <Navigate to="/" />}
           />{" "}
-          <Route path="/login" element={<Login />} />
+          <Route path="/" element={<Login />} />
           <Route path="/users" element={<UsersList />} />
         </Routes>
       </Router>
