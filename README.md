@@ -47,7 +47,7 @@ This is a **React-based User Management Application** that integrates with the *
 - **State Management:** Redux 
 - **API Requests:** Axios
 - **UI Framework:** Tailwind CSS
-- **Hosting:** Netlify / Vercel / GitHub Pages
+- **Hosting:** Vercel 
 
 ## 📦 Installation & Setup
 
@@ -110,7 +110,7 @@ Password: cityslicka
 
 ---
 
-## 🚀 Deployment (If Hosted)
+## 🚀 Deployment
 
 The project is deployed at: **[Live Demo](https://employ-wise-user-management-app-s8g8.vercel.app/)** 
 
